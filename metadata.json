@@ -1,0 +1,6 @@
+{
+  "name": "هالة — متجر مستلزمات معامل العلوم",
+  "description": "متجر هالة المتكامل لبيع أدوات وأجهزة وحقائب معامل العلوم للمراحل الابتدائية والإعدادية والثانوية في مصر بالدفع بالجنيه المصري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
